@@ -1,0 +1,16 @@
+.active {
+  background-color: #4CAF50; /* Change this color to your preferred highlight color */
+  color: white;
+}
+#display {
+  background-color: #222;
+  color: #fff;
+  font-size: 24px;
+  padding: 10px;
+  text-align: right;
+  border: 2px solid #444;
+  border-radius: 5px;
+  margin: 10px;
+  width: 300px;
+
+}
